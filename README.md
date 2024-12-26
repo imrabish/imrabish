@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Rabish Kumar Parvat</h1>
-<p> I am a Frontend Developer, skilled in technologies like JavaScript, React.js, Node.js etc. Passionate about leveraging technology for innovative solutions, I am building projects integrating frontend libraries with APIs, demonstrating my ability to innovate and execute complex projects. let's connect to explore potential opportunities.</p>
+<p> I am a Full Stack Developer, skilled in technologies like JavaScript, React.js, Node.js, MongoDB etc. Passionate about leveraging technology for innovative solutions, I am building projects integrating frontend libraries with APIs, demonstrating my ability to innovate and execute complex projects. let's connect to explore potential opportunities.</p>
 
 - 💬 Ask me about **React.js, JavaScript**
 
@@ -16,6 +16,7 @@
 <img width="40" height="40" src="https://skillicons.dev/icons?i=mongodb"></img>&nbsp;&nbsp;
 <img width="40" height="40" src="https://skillicons.dev/icons?i=react"></img>&nbsp;&nbsp;
 <img width="40" height="40" src="https://skillicons.dev/icons?i=nodejs"></img>&nbsp;&nbsp;
+<img width="40" height="40" src="https://skillicons.dev/icons?i=mysql"></img>&nbsp;&nbsp;
 </p>
 <hr />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrabish&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="imrabish" /></p>
